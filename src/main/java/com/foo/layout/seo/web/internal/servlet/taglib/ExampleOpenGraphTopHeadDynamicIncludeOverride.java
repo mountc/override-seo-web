@@ -110,7 +110,7 @@ public class ExampleOpenGraphTopHeadDynamicIncludeOverride extends BaseDynamicIn
             String canonicalURL = _portal.getCanonicalURL(
                     completeURL, themeDisplay, layout, false, true);
 
-            _log.info("Using override class");
+            _log.info("IncludeQueryString is True for canonicalURLs");
 
             Map<Locale, String> alternateURLs = Collections.emptyMap();
 
