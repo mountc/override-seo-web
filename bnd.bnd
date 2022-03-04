@@ -1,0 +1,4 @@
+Bundle-Name: Override SEO Web
+Bundle-Description: Provides override for cannonical urls
+Bundle-SymbolicName: com.foo.layout.seo.web.internal.servlet.taglib
+Bundle-Version: 1.0.0
